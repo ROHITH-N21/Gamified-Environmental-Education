@@ -1,4 +1,3 @@
-# Gamified-Environmental-Education
 ﻿# PunahaPrithvi
 
 #Deployment<br>
@@ -65,5 +64,4 @@ Community growth: Connect with like-minded individuals and collectively work tow
 
 💡 Contribution
 Contributions are welcome! Feel free to submit issues, feature requests, or pull requests. Let’s make the world greener together!
-
 
